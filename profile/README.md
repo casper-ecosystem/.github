@@ -1,10 +1,10 @@
 # Casper Ecosystem
 
-Casper strongly believes that for an ecosystem to thrive, a passionate community and active participation by the community members in creating innovative solutions is important. In order for the community to develop projects and solutions that will add value to the people around the world, a robust ecosystem is essential. 
+Casper strongly believes in the importance of a passionate community, and the active participation of our community members in creating innovative solutions. A robust ecosystem is essential in allowing the community to develop these solutions and projects built upon them.
 
-Casper Network has a thriving ecosystem of projects, standards, reference implementations, and tools evolved through active community participation. 
+The Casper Network features a thriving ecosystem of projects, standards, reference implementations and tools that have evolved through active community participation.
 
-We aim to host an accurate, Casper core-team curated, up-to-date information of all Casper Ecosystem entities under in a single place for a seamless community engagement.
+Our goal is to host an accurate, up-to-date information hub curated by the Casper core-team containing all Casper ecosystem entities in a single location to facilitate seamless community engagement.
 
 This Casper Ecosystem Organization is purpose built with a vision to serve the community. Overall, Casper provides a plethora of standards, tools and documentation for developers to easily start their projects and build applications. 
 
@@ -14,9 +14,9 @@ Please check the following sections to understand how you can collaborate and co
 
 # How to Contribute & Guidelines
 
-The workflow and details of setup to contribute are described in [CONTRIBUTING.md](https://github.com/casper-ecosystem/.github/edit/main/profile/CONTRIBUTING.md).
+Workflow and setup details are described in [CONTRIBUTING.md](https://github.com/casper-ecosystem/.github/edit/main/profile/CONTRIBUTING.md).
 
-To propose new Design Proposals/ Ehnacements(CEP), please follow the details specified in [PROPOSALS.md](https://github.com/casper-ecosystem/.github/edit/main/profile/PROPOSALS.md).
+To propose new Design Proposals/Enhancements(CEP), please follow the details specified in [PROPOSALS.md](https://github.com/casper-ecosystem/.github/edit/main/profile/PROPOSALS.md).
 
 # Getting in Touch
 
