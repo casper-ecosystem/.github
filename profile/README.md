@@ -2,9 +2,7 @@
 
 Casper strongly believes in the importance of a passionate community, and the active participation of our community members in creating innovative solutions. A robust ecosystem is essential in allowing the community to develop these solutions and projects built upon them.
 
-This Casper Ecosystem Organization is purpose built with a vision to serve the community. Overall, Casper provides a plethora of standards, tools and documentation for developers to easily start their projects and build applications. 
-
-We welcome developers, entrepreneurs, and enterprises to come build with us. 
+This GitHub Casper Ecosystem Organization is purpose-built with a vision to serve the community. We welcome developers, entrepreneurs, and enterprises to come to build with us.
 
 Please check [CONTRIBUTING.md](https://github.com/casper-ecosystem/.github/edit/main/profile/CONTRIBUTING.md) guide to understand how you can collaborate and contribute to the success of Casper. 
 
