@@ -4,20 +4,20 @@ Welcome! If you are on this page, you are probably interested in contributing to
 
 Casper truly believes in the strength of community participation and welcomes help in many forms.
 
-We'll always need help improving documentation, creating tutorials, and writing tests.You can help Casper by participating in the development, code review, and documentation improvements.
+We'll always need help improving documentation, creating tutorials, and writing tests. You can help Casper by participating in development, code review, and documentation improvements.
 
 ## How can I contribute?
 
 ### 1. Reporting Bugs
 
-Casper Ecosystem and Network comprise repositories specific to the Casper Node, SDKs, Contracts and Documentation.
+The Casper Ecosystem and Network consist of repositories specific to the Casper Node, SDKs, Contracts and Documentation.
 
-If you notice any bugs, please open an issue in the respective repository. You can choose the appropriate template when opening an issue and fill in the details requested in the template.
+If you notice any bugs, please open an issue in the respective repository. You can choose the appropriate template when opening an issue and fill in the requested details.
 
 When you are creating a bug report, please include as many details as possible. Fill out the required template, the information it asks for helps us resolve issues faster.
 
 **Before Submitting A Bug Report**
-- Check the documentation/FAQs for the list of common questions and problems
+- Check the documentation/FAQs for the list of common questions and problems.
 - Determine which repository the problem should be reported in.
 - Perform a cursory search to see if the problem has already been reported in the respective repo. If it has and the issue is still open, add a comment to the existing issue instead of opening a new one.
 
@@ -26,7 +26,7 @@ When you are creating a bug report, please include as many details as possible. 
 
 **How Do I Submit A (Good) Bug Report?**
 
-Bugs are tracked as GitHub issues. After you've determined which repository your bug is related to, create an issue on that repository and provide the following information by filling in the template.
+Bugs are tracked as GitHub issues. After you've determined which repository your bug is related to, create an issue on that repository and provide the following information by filling in the template:
 
 Explain the problem and include additional details to help maintainers reproduce the problem:
 - **Use a clear and descriptive title** for the issue to identify the problem.
@@ -93,19 +93,19 @@ Please note that the naming convention followed for a Release/Feature branch rel
 
 - **Step 5.1:** Git Rules
 
-    We use `gitchangelog` for all of our repos for change logs. For that, we need to follow the following convention when writing commit messages. Your pull request may not be merged if you are not following this convention.
+    We use `gitchangelog` for all of our repos for change logs. For that, we need to adhere to the following convention when writing commit messages. Your pull request may not be merged if you are not following this convention.
 
 - **Step 5.2:** Commit Message Convention
 
-    The following are suggestions to what might be useful to think about adding in your commit messages. You might want to separate roughly your commits into big sections:
+    The following suggestions might be useful to add in your commit messages. You might want to separate your commits into rough sections:
     - by purpose (for example: new, fix, change ...)
     - by the entity (for example: doc, sdk, code ...)
     - by the audience (for example: dev, tester, users ...)
   
-    Additionally, you could want to tag some commits:
+    Additionally, you might want to tag some commits:
     - as `minor` commits that shouldn’t get output to your changelog (cosmetic changes, small typo in comments...)
-    - as `refactor` if you don’t really have any significant feature changes
-        Thus, this should not also be part of the changelog displayed to a final user for instance, but might be of some interest if you have a developer changelog.
+    - as `refactor` if you don’t have any significant feature changes
+        Thus, this should not also be part of the changelog displayed to a final user, but might be of some interest if you have a developer changelog.
     - you could also tag with `api` to mark API changes or if it's a new API   
       or similar
 
@@ -118,7 +118,7 @@ Please refer to the Casper Pull Request Workflow below;
 ![Casper PR Workflow](https://github.com/casper-ecosystem/.github/new/main/CASPERPRFLOW.jpeg)
 
 - **Step 5.3:** Best Practices
-  - Code in the Casper project should meet the style guidelines, with sufficient test cases, descriptive commit messages, evidence that the contribution does not break any compatibility commitments or cause adverse feature interactions, and evidence of high-quality peer review.
+  - Code in the Casper project should meet the style guidelines with sufficient test cases, descriptive commit messages, evidence that the contribution does not break any compatibility commitments or cause adverse feature interactions and evidence of high-quality peer review.
   - Casper recommends small, frequent PRs over large, infrequent ones.
   - When you notice those dependencies, put the fix into a commit of its own, then check out a new branch, and cherry-pick it.
   - Read the PR template prudently and make sure to follow all the instructions.
@@ -129,18 +129,18 @@ Please refer to the Casper Pull Request Workflow below;
 
 ### 5. Testing
 
-If you are interested in testing our documentation, guides and developer tools, head over to the following pages.
+If you are interested in testing our documentation, guides and developer tools, head over to the following pages:
 
 - [Why Build on Casper](https://docs.casperlabs.io/dapp-dev-guide/why-build-on-casper/)
 - [Getting Started with Rust](https://docs.casperlabs.io/dapp-dev-guide/writing-contracts/getting-started/)
 - [Setting up a Local Network with NCTL](https://docs.casperlabs.io/dapp-dev-guide/building-dapps/setup-nctl/)
 - [Testing Smart Contracts with NCTL](https://docs.casperlabs.io/dapp-dev-guide/building-dapps/nctl-test/)
 
-We would love to know your insights/feedback from your testing, and you can let us know by submitting issues in the respective repositories on GitHub.
+We would love to know your insights/feedback from your testing. You can let us know by submitting issues in the respective repositories on GitHub.
 
 ### 6. Contributing New Projects to Casper Ecosystem
 
-This section is specifically created to explain the mandatory requirements that the Community Developers/Teams are required to follow when contributing new projects to Casper Ecosystem.
+This section is specifically created to explain the mandatory requirements that the Community Developers/Teams are required to follow when contributing new projects to the Casper Ecosystem.
 
 The contributing team is expected to follow the below Open-Source Software Compliance in accordance with the other Casper-specific contributions and standards outlined in the previous sections of this document.
 
@@ -161,7 +161,7 @@ The contributing team is expected to follow the below Open-Source Software Compl
 - PR template
 - Repository admins accept content reports (enabled from the admin settings of the repo)
 
-## Contributing Style guide
+## Contributing Style Guide
 
 Please follow the Writing Style Guide used by Casper's Documentation team to ensure consistency across Casper Ecosystem documentation.
 
