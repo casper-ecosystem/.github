@@ -6,6 +6,9 @@ Casper truly believes in the strength of community participation and welcomes he
 
 We'll always need help improving documentation, creating tutorials, and writing tests. You can help Casper by participating in development, code review, and documentation improvements.
 
+## Code of Conduct
+The Casper [Code of Conduct](https://github.com/casper-ecosystem/.github/blob/main/profile/CODE_OF_CONDUCT.md) governs this project and those participating in it.  By participating, you are expected to uphold this code.
+
 ## How can I contribute?
 
 ### 1. Reporting Bugs
@@ -115,7 +118,7 @@ Try writing your commit message by targeting user functionality as often as you 
 
 Please refer to the Casper Pull Request Workflow below;
 
-![Casper PR Workflow](https://github.com/casper-ecosystem/.github/new/main/CASPERPRFLOW.jpeg)
+![Casper PR Workflow](https://github.com/casper-ecosystem/.github/blob/main/profile/Casper_Pull%20Request_Flow.png)
 
 - **Step 5.3:** Best Practices
   - Code in the Casper project should meet the style guidelines with sufficient test cases, descriptive commit messages, evidence that the contribution does not break any compatibility commitments or cause adverse feature interactions and evidence of high-quality peer review.
