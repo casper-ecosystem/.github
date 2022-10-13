@@ -134,7 +134,7 @@ Please refer to the Casper Pull Request Workflow below;
 
 If you are interested in testing our documentation, guides and developer tools, head over to the following pages:
 
-- [Why Build on Casper](https://docs.casperlabs.io/dapp-dev-guide/why-build-on-casper/)
+- [Why Build on Casper](https://docs.casperlabs.io/dapp-dev-guide/build-on-casper/introduction/)
 - [Getting Started with Rust](https://docs.casperlabs.io/dapp-dev-guide/writing-contracts/getting-started/)
 - [Setting up a Local Network with NCTL](https://docs.casperlabs.io/dapp-dev-guide/building-dapps/setup-nctl/)
 - [Testing Smart Contracts with NCTL](https://docs.casperlabs.io/dapp-dev-guide/building-dapps/nctl-test/)
